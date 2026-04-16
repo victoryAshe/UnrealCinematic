@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Common/Megaplant_Library/Tree_Yoshino_Cherry/Instances/SK_Yoshino_Cherry_Branch_01.uasset
+Content/Common/Megaplant_Library/Tree_Yoshino_Cherry/Instances/SKM_Yoshino_Cherry_Branch_01.uasset
